@@ -1,2 +1,4 @@
-package com.library.pages;public class CommonAreaPage {
+package com.library.pages;
+
+public class CommonAreaPage {
 }
